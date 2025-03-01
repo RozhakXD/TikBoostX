@@ -1,0 +1,4 @@
+requests-toolbelt
+requests
+rich
+fake-useragent
